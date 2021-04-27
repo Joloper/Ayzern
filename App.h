@@ -19,3 +19,5 @@
 #include <activecf.h>
 #include <ActiveDS.h>
 #include <activprof.h>
+#include "App.h"
+#include "Defines.h"
