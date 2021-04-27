@@ -11,6 +11,7 @@ class Copyright {
 
 	std::nullptr_t
 	CPP_AYZERN() = NULL;
+	CPP_BUFFER() = NULL;
 
 };
 
@@ -25,6 +26,13 @@ class Ayzern {
 	if (Ayzern) {
 		return true;
 	}
+	
+	bool BufferDetect
+        char ImGuiBuffer = [255]
+
+		if (BufferDetect(true) / (false)) {
+			return ImGuiBuffer;
+	    }
 
 };
 
