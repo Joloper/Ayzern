@@ -13,3 +13,4 @@ Git Clone from VS 2019 and go to GitHub and copy and paste the HTTPS Link.
 Founder/CEO: AxilJ
 Co-Founder/CFO: MrSantaCoder
 Help-Founder/CTO: YepZir
+Assistant-Founder/COO: Programzer
