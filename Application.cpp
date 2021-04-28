@@ -2,6 +2,7 @@
 // Free to use Ayzern
 // Make sure to use Libraries that are C++
 // Or errors will appear
+// By Team Ayzern
 /**/
 
 #include <iostream>
@@ -12,6 +13,8 @@ class Copyright {
 	std::nullptr_t
 	CPP_AYZERN() = NULL;
 	CPP_BUFFER() = NULL;
+	H_AYZERN() = true;
+	H_BUFFER() = false;
 
 };
 
@@ -35,6 +38,18 @@ class Ayzern {
 	    }
 
 };
+
+// Class STD for most of STD Code
+class STD {
+       // This is all STD Code written
+       // Written by YepZir/AxilJ
+       /**/
+       bool KazdSTD
+       virtual bool WindowSTD	       
+       std::print(KazdSTD) == true;
+       std::print(WindowSTD) == false;	
+	
+}	
 
 _STD_END;
 #endif;
