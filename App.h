@@ -2,6 +2,7 @@
 // For Application.cpp
 // Make sure to use Libraries that are C++
 // Or errors will appear
+// The best one to use is Vulkan, GLFW, or OpenGL GLUT
 /**/
 
 #pragma once
