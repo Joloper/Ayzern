@@ -56,5 +56,8 @@ class STD {
 };
 }
 
-_STD_END;
-#endif;
+class End {
+
+	_STD_END;
+    #endif;
+};
