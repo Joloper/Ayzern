@@ -5,3 +5,4 @@
 #include <.git/info/>
 #include "App.h"
 #include "Defines.h"
+#include "Uninstall.h"
