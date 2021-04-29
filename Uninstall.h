@@ -1,6 +1,6 @@
 #pragma once
 
-namespace Hazel {
+namespace Ayzern {
 
 	class Layer
 	{
